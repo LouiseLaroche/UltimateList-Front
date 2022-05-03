@@ -1,41 +1,25 @@
 # UltimateList
 
-## Affectation des rôles
+## Présentation du projet
+
+Ultimate List est une application permettant de se créer des todo-list organisées : Elle regroupe des films, séries, livres, podcasts, jeux vidéos que vous souhaitez voir, lire, écouter, jouer prochainement mais que vous n'avez pas envie d'oublier. 
+
+Organisé par catégories (jeux vidéos, podcasts, livres, etc…), Ultimate List propose d’ajouter des items dans des listes avec différents statuts de progression (ex.: à voir, en cours, vu).
+
+## Rôles
 
 - Product Owner : Julie
 - Scrum Master : Timothé
 - Git Master : Louise
 - Lead Dev Back : Oriane
-- Lead Dev Front : Vivien
 
 ## Technologies utilisées
 
-- Framework CSS : Bootstrap React, Semantic UI React
-- React, Redux, React Router DOM
-- Symfony, MySQL
+- Front : React, Redux, React Router DOM, Sass, Axios, Wepback, Babel
+- Back : Symfony, MySQL, ORM Doctrine
+- Backoffice : Twig, Bootstrap
 
 ## Références
 
 - https://memorizer.ai/fr/
 - https://trakt.tv/
-
-## Idées en vrac
-
-- Faire en sorte que l'utilisateur puisse créer ses propres catégories
-- Intégrer Shazam
-- Que les utilisateurs puissent personnaliser l'apparence de l'appli
-
-### Idées de catégories
-
-- Films
-- Séries
-- Livres
-- Jeux vidéos
-- Podcasts
-- Vidéos d'internet (youtube)
-- Musiques
-- (Musées)
-
-## Documents annexes
-
-- Exemple de routes : https://github.com/O-clock-Zeus/S06-oShop-SoleneOclock/blob/master/docs/routes.md
